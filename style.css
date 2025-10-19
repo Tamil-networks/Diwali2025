@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#one{
+        background:url(diwali-fireworks.webp);
+        background-size: cover;
+        font-synthesis-style: auto;
+        color: aliceblue;
+        
+    }
+
+#two{
+        border-color:black;
+        border-width: 2px;
+        border-style: solid;
+        display:block;
+        margin-top: 250px;
+        width: 380px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+#four{
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 55px;
+    width: 150px;
+    
+}
+
+#three{
+    display:inline-block;
+    width:150px;
+    
+}
+
+#ta{
+    border-radius: 10px;
+    width:60px;
+    height: 35px;
+    background-color: aquamarine;
+}
+
+#mi{
+    border-radius: 10px;
+    width:60px;
+    height: 35px;
+    background-color: aquamarine;
+
+}
+
+#main{
+    background: url(diwali-toolkit-2020-featured-image.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#se{
+    text-align: center;
+    margin-top: 180px;
+}
+
+#siva{
+    margin-top: 60px;
+    background-color: green;
+    height:0% ;
+    width: 100px;
+    display: block;
+    padding :10px;
+    border-radius: 10px;
+    color:yellow;
+
+}
+
+#amma:hover{
+    color: aliceblue;
+    
+}
